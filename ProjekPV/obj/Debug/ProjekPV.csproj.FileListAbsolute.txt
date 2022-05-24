@@ -1,0 +1,12 @@
+D:\PV\ProjekPV\ProjekPV\bin\Debug\ProjekPV.exe.config
+D:\PV\ProjekPV\ProjekPV\bin\Debug\ProjekPV.exe
+D:\PV\ProjekPV\ProjekPV\bin\Debug\ProjekPV.pdb
+D:\PV\ProjekPV\ProjekPV\obj\Debug\ProjekPV.csproj.AssemblyReference.cache
+D:\PV\ProjekPV\ProjekPV\obj\Debug\ProjekPV.Form1.resources
+D:\PV\ProjekPV\ProjekPV\obj\Debug\ProjekPV.Form2.resources
+D:\PV\ProjekPV\ProjekPV\obj\Debug\ProjekPV.Form3.resources
+D:\PV\ProjekPV\ProjekPV\obj\Debug\ProjekPV.Properties.Resources.resources
+D:\PV\ProjekPV\ProjekPV\obj\Debug\ProjekPV.csproj.GenerateResource.cache
+D:\PV\ProjekPV\ProjekPV\obj\Debug\ProjekPV.csproj.CoreCompileInputs.cache
+D:\PV\ProjekPV\ProjekPV\obj\Debug\ProjekPV.exe
+D:\PV\ProjekPV\ProjekPV\obj\Debug\ProjekPV.pdb
